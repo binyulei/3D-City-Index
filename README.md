@@ -5,7 +5,7 @@
 However, the properties of 3D city models vary across cities and countries, together with the nature of their initiatives and purposes. 
 Such heterogeneity and different practices are not explored thoroughly, which presents a challenge for usability and for local governments who are yet to establish their 3D initiatives.
 This issue is compounded by the increasing importance of urban digital twins, which 3D city models are a pillar of. 
-The quality of 3D city models plays a role in the effectiveness of designing and implementing urban digital twins, but how `good' it is, and what the difference is among different practices around the world, is not fully clear.
+The quality of 3D city models plays a role in the effectiveness of designing and implementing urban digital twins, but how 'good' it is, and what the difference is among different practices around the world, is not fully clear.
 
 This repository documents a continued assessment of open 3D city models and the trend analysis, building on a four-category framework conducted by Lei et al., (2023). 
 In the meantime, this project serves as a corpus of publicly availabel 3D city models around the world, thanks to the Awesome CityGML project released by Wysocki et al., (2025). 
@@ -105,6 +105,7 @@ The developed framework contains four categories, which are: Data portal, Basic 
 ## Datasets
 
 The 2025 update, including 47 datasets, reveals both the current situation and advancements in the open 3D data landscape since the previous benchmark 3 years ago. 
+
 You may click on regions/cities to visit their latest 3D models.
 
 
